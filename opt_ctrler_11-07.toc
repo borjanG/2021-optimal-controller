@@ -1,0 +1,15 @@
+\contentsline {section}{\tocsection {}{1}{Introduction}}{1}{section.1}%
+\contentsline {subsection}{\tocsubsection {}{1.1}{Our contributions}}{3}{subsection.1.1}%
+\contentsline {subsection}{\tocsubsection {}{1.2}{Background}}{3}{subsection.1.2}%
+\contentsline {subsection}{\tocsubsection {}{}{Notation}}{5}{section*.2}%
+\contentsline {section}{\tocsection {}{2}{Reformulation via Brunovsky's normal form}}{5}{section.2}%
+\contentsline {subsection}{\tocsubsection {}{2.1}{Computing the norm of $P^{-1}(b)$}}{8}{subsection.2.1}%
+\contentsline {section}{\tocsection {}{3}{Symmetries}}{9}{section.3}%
+\contentsline {section}{\tocsection {}{4}{Numerical experiments}}{11}{section.4}%
+\contentsline {section}{\tocsection {}{5}{Concluding remarks and outlook}}{18}{section.5}%
+\contentsline {subsection}{\tocsubsection {}{5.1}{Time-dependent coefficients, neural networks}}{19}{subsection.5.1}%
+\contentsline {subsection}{\tocsubsection {}{5.2}{Uniqueness modulo rotations}}{20}{subsection.5.2}%
+\contentsline {subsection}{\tocsubsection {}{5.3}{Non-scalar controls and PDEs}}{20}{subsection.5.3}%
+\contentsline {subsection}{\tocsubsection {}{5.4}{Optimization methods on manifolds}}{20}{subsection.5.4}%
+\contentsline {section}{\tocsection {Appendix}{A}{Auxiliary proofs}}{21}{appendix.A}%
+\contentsline {section}{\tocsection {Appendix}{}{References}}{22}{section*.3}%
