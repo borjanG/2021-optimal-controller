@@ -2,7 +2,7 @@
 
 Matlab (CasADi-IPOPT) and Python codes for the paper
 
-**Optimal actuator design via Brunovsky's normal form** by Borjan Geshkovski and Enrique Zuazua. 
+**Optimal actuator design via Brunovsky's normal form** (by Borjan Geshkovski and Enrique Zuazua). 
 
 Accepted (with minor revisions) in IEEE Transactions of Automatic Control.
 
