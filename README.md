@@ -3,6 +3,7 @@
 Matlab (CasADi-IPOPT) and Python codes for the paper:
 
 **Optimal actuator design via Brunovsky's normal form**
+
 (Borjan Geshkovski, Enrique Zuazua)
 
 ```
