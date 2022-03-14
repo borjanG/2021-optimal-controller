@@ -161,10 +161,7 @@ def sphere(b):
 
     return sum([pow(b[k], 2) for k in range(len(b))])
 
-
-
-
-
+# Plotting the matrix
 n = 35
 
 import matplotlib.pyplot as plt
@@ -195,5 +192,5 @@ for k in range(n):
     plt.show()
 
 #plt.imshow(np.linalg.matrix_power(laplacian(n), n-k), cmap="Oranges")
-#    plt.colorbar()
-#   plt.show()
+#plt.colorbar()
+#plt.show()

@@ -113,7 +113,6 @@ function r = fun_wave(b1, b2, b3, xk)
         mat(:, k) = p_(k, b1, b2, b3)*bb; 
     end
     
-    
     %%   Power iteration to find \lambda_min(P(b)P(b)^*)
     C = mat*transpose(mat);
     r_ = eigs(C);

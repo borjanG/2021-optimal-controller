@@ -182,7 +182,6 @@ if __name__ == "__main__":
                                         bounds,
                                         maxiter=1000,
                                         constraints=nlc,
-                                        x0=np.array([0.4, -0.35, 0.9]),
                                         seed=1)
         print(result)
         print(sphere(result.x))

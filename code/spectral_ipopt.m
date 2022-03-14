@@ -1,5 +1,4 @@
 clear
-%clc
 import casadi.*
 
 %% Symbols, expressions
@@ -37,7 +36,7 @@ S = casadi.nlpsol('S', 'ipopt', nlp);
 % We solve for the dico containing the relevant information from the
 % problem S (we take an initial guess which is a random vector for b0)
 
-r = S('x0',rand(n,1),'lbg',0,'ubg',0);
+r = S('x0', rand(n,1), 'lbg', 0, 'ubg', 0);
 %r = S('x0', [0.335503; 0.942039], 'lbg',0,'ubg',0);
 
 % We recover the optimal value b* as r.x
