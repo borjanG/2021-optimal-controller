@@ -8,7 +8,7 @@
 [*Optimal actuator design via Brunovsky's normal form*](https://arxiv.org/abs/2108.05629) by Borjan Geshkovski and Enrique Zuazua. (Accepted in IEEE Transactions of Automatic Control.)
 
 <p align="center">
-  <img src="figures/head.pdf" width="500"/>
+  <img src="figures/readme.png" width="500"/>
 </p>
 
 ## Abstract 
