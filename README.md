@@ -3,8 +3,14 @@
   Optimal actuator design via Brunovsky's normal form
 </h1>
 
+<p align="center">
+  <a href="https://arxiv.org/abs/2108.05629">
+  <img src="https://zenodo.org/badge/DOI/10.48550/arXiv.2108.05629.svg">
+  </a>
+</p>
+
 <tt>Matlab</tt> (<tt>CasADi-IPOPT</tt>) and <tt>Python</tt> codes for the paper 
-[*Optimal actuator design via Brunovsky's normal form*](https://arxiv.org/abs/2108.05629) by Borjan Geshkovski and Enrique Zuazua. (Accepted in IEEE Transactions of Automatic Control.)
+[*Optimal actuator design via Brunovsky's normal form*](https://arxiv.org/abs/2108.05629) by Borjan Geshkovski and Enrique Zuazua.
 
 <p align="center">
   <img src="figures/readme.png" width="750"/>
@@ -17,14 +23,15 @@
 ## Citing
 
 ```
-@article{geshkovski2021optimal,
-  title={Optimal actuator design via Brunovsky's normal form},
+@article{geshkovski2022optimal,
+  title={Optimal actuator design via Brunovsky’s normal form},
   author={Geshkovski, Borjan and Zuazua, Enrique},
-  journal={arXiv preprint arXiv:2108.05629},
-  year={2021}
+  journal={IEEE Transactions on Automatic Control},
+  volume={67},
+  number={12},
+  pages={6641--6650},
+  year={2022},
+  publisher={IEEE}
 }
 ```
 
-<p align="center">
-  <img src="https://zenodo.org/badge/DOI/10.48550/arXiv.2108.05629.svg" link="https://arxiv.org/abs/2108.05629">
-</p>
