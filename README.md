@@ -22,7 +22,7 @@
 
 ## Citing
 
-```
+```bibtex
 @article{geshkovski2022optimal,
   title={Optimal actuator design via Brunovsky’s normal form},
   author={Geshkovski, Borjan and Zuazua, Enrique},
